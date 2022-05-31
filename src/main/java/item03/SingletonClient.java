@@ -6,8 +6,8 @@ package item03;
 public class SingletonClient {
     public static void main(String[] args) {
 //        Singleton1 singleton1 = new Singleton1(); 생성 불가
-        Singleton1 instance1 = Singleton1.instance;
-        Singleton1 instance2 = Singleton1.instance;
+        Singleton1 instance1 = Singleton1.INSTANCE;
+        Singleton1 instance2 = Singleton1.INSTANCE;
         System.out.println(instance1 == instance2); // true
 
 //        Singleton2 singleton2 = new Singleton2(); 생성 불가
