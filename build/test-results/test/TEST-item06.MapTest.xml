@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="item06.MapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-31T17:49:30" hostname="baghunseong-ui-MacBook-Pro.local" time="0.017">
+  <properties/>
+  <testcase name="mapTest()" classname="item06.MapTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
