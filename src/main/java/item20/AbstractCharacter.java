@@ -17,7 +17,7 @@ public abstract class AbstractCharacter implements Character {
     @Override
     public void process() {
         create();
-        attack();
+        hunt();
         levelUp();
         System.out.println("============");
     }

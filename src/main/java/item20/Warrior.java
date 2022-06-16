@@ -6,7 +6,7 @@ package item20;
 public class Warrior extends AbstractCharacter {
 
     @Override
-    public void attack() {
-        System.out.println("warrior attack");
+    public void hunt() {
+        System.out.println("warrior hunt");
     }
 }

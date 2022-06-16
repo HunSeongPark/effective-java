@@ -5,7 +5,7 @@ package item20;
  */
 public interface Character {
     void create();
-    void attack();
+    void hunt();
     void levelUp();
     void process();
 }
